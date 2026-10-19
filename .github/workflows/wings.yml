@@ -1,0 +1,31 @@
+# Regenerates the GitWings wings daily and publishes them to the `output` branch.
+
+name: Wings
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  wings:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Quaximur/GitWings@main
+        with:
+          target: ${{ github.repository_owner }}
+          output: dist/wings.svg
+          dark_output: dist/wings-dark.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
