@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/Quaximur"><img src="https://raw.githubusercontent.com/Quaximur/Quaximur/main/wings.svg" alt="Rising wings of Quaximur" width="100%"/></a>
+</p>
+
+<p align="center"><sub>Rising wings · ★ 15 · 1.3k commits · <a href="https://learn.microsoft.com/dotnet/csharp">C#</a> · <a href="https://docs.unity3d.com/Manual/SL-Reference.html">ShaderLab</a> · <a href="https://www.python.org">Python</a> · <a href="https://www.typescriptlang.org">TypeScript</a> · <a href="https://developer.mozilla.org/docs/Web/JavaScript">JavaScript</a> · <a href="https://isocpp.org">C++</a> · <a href="https://learn.microsoft.com/windows/win32/direct3dhlsl">HLSL</a> · <a href="https://developer.mozilla.org/docs/Web/CSS">CSS</a> · <a href="https://unity.com">Unity</a> · <a href="https://github.com/Cysharp/R3">R3</a> · <a href="https://www.docker.com">Docker</a> · <a href="https://dotnet.microsoft.com/apps/aspnet">ASP.NET</a> · <a href="https://vcontainer.hadashikick.jp">VContainer</a> · <a href="https://learn.microsoft.com/ef/core">EF Core</a> · <a href="https://grpc.io">gRPC</a> · <a href="https://www.postgresql.org">PostgreSQL</a> · <a href="https://nestjs.com">NestJS</a> · <a href="https://rxjs.dev">RxJS</a></sub></p>
+
 <!--
 **Quaximur/Quaximur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
