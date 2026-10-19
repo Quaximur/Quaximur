@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <a href="https://github.com/Quaximur"><img src="https://raw.githubusercontent.com/Quaximur/Quaximur/main/wings.svg" alt="Rising wings of Quaximur" width="100%"/></a>
 </p>
