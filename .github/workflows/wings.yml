@@ -1,5 +1,3 @@
-# Regenerates the GitWings wings daily and publishes them to the `output` branch.
-
 name: Wings
 
 on:
@@ -16,11 +14,22 @@ jobs:
   wings:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Quaximur/GitWings@main
         with:
-          target: ${{ github.repository_owner }}
+          target: ${{ github.repository_owner }} # or owner/repo for a single repository
           output: dist/wings.svg
           dark_output: dist/wings-dark.svg
+          readme: README.md
+
+      # Pushes made with GITHUB_TOKEN don't trigger workflows, so this doesn't loop.
+      - name: Commit README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || { git commit -m "Refresh wings links" && git push; }
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
