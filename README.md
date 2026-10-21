@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/dotnet/csharp"><img src="https://img.shields.io/badge/C%23-62%25-178600?style=flat-square&labelColor=21262d&logo=dotnet&logoColor=178600" alt="C# 62%"/></a>
-  <a href="https://docs.unity3d.com/Manual/SL-Reference.html"><img src="https://img.shields.io/badge/ShaderLab-10%25-222c37?style=flat-square&labelColor=21262d&logo=unity&logoColor=white" alt="ShaderLab 10%"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp"><img src="https://img.shields.io/badge/C%23-60%25-178600?style=flat-square&labelColor=21262d&logo=dotnet&logoColor=178600" alt="C# 60%"/></a>
+  <a href="https://docs.unity3d.com/Manual/SL-Reference.html"><img src="https://img.shields.io/badge/ShaderLab-9%25-222c37?style=flat-square&labelColor=21262d&logo=unity&logoColor=white" alt="ShaderLab 9%"/></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-9%25-3572A5?style=flat-square&labelColor=21262d&logo=python&logoColor=3572A5" alt="Python 9%"/></a>
-  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-9%25-3178c6?style=flat-square&labelColor=21262d&logo=typescript&logoColor=3178c6" alt="TypeScript 9%"/></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-8%25-3178c6?style=flat-square&labelColor=21262d&logo=typescript&logoColor=3178c6" alt="TypeScript 8%"/></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-3%25-f1e05a?style=flat-square&labelColor=21262d&logo=javascript&logoColor=f1e05a" alt="JavaScript 3%"/></a>
   <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C%2B%2B-3%25-f34b7d?style=flat-square&labelColor=21262d&logo=cplusplus&logoColor=f34b7d" alt="C++ 3%"/></a>
+  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-3%25-00ADD8?style=flat-square&labelColor=21262d&logo=go&logoColor=00ADD8" alt="Go 3%"/></a>
   <a href="https://learn.microsoft.com/windows/win32/direct3dhlsl"><img src="https://img.shields.io/badge/HLSL-2%25-aace60?style=flat-square&labelColor=21262d" alt="HLSL 2%"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-2%25-663399?style=flat-square&labelColor=21262d&logo=css&logoColor=white" alt="CSS 2%"/></a>
 </p>
 
 <p align="center">
